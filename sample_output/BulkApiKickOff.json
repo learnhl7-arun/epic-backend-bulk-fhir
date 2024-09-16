@@ -1,0 +1,16 @@
+{
+  "transactionTime": "2024-09-15T13:08:45Z",
+  "request": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4/Group/e3iabhmS8rsueyz7vaimuiaSmfGvi.QwjVXJANlPOgR83/$export?_type=patient,observation&_typeFilter=Observation%3Fcategory%3Dlaboratory",
+  "requiresAccessToken": "true",
+  "output": [
+    {
+      "type": "Patient",
+      "url": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/BulkRequest/9DDBE015736311EFB68D005056BECC4A/e9aS3OdH6Wl7BBFgqo3pamA3"   
+    },
+    {
+      "type": "Observation",
+      "url": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/BulkRequest/9DDBE015736311EFB68D005056BECC4A/en5PRuqsaAcQh.U92SIxI6g3"   
+    }
+  ],
+  "error": []
+}
