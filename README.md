@@ -1,4 +1,4 @@
-*SMART on FHIR Backend Application with Epic*
+# SMART on FHIR Backend Application with Epic
 
 We will start with: Epic FHIR Sandbox Credentials
 
